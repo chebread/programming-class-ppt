@@ -23,9 +23,12 @@ _footer: © 2024 by [Cha Haneum](https://github.com/chebread) is licensed under 
 4. 변수와 상수
 5. 자료형
 6. 형변환
+
+---
+
 7. 기본 연산자
 8. 고급 연산자
-9. 비교 연산자
+9.  비교 연산자
 10. 조건문
 11. 논리 연산자
 12. 마무리 정리
